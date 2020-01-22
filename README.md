@@ -1,7 +1,7 @@
 # zerodha-statements
 
 
-This project do analysis on zerodha statements(as csv files) and identifies all the types of charges, fees, unexpected credits done in the account.
+This project does analysis on zerodha statements(as csv files) and identifies all the types of charges, fees, unexpected debits etc done in the account.
 It also group the expenses by Mutual funds purchase, stocks purchase.
 
 
